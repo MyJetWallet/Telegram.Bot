@@ -16,18 +16,10 @@
     <GenerateDocumentationFile>True</GenerateDocumentationFile>
     <PublishRepositoryUrl>true</PublishRepositoryUrl>
     <EmbedUntrackedSources>true</EmbedUntrackedSources>
-    <Title>Telegram Bot API Client</Title>
-    <Description>This library gives you easy access to Telegram Bot API so you can start building useful bots for Telegram.</Description>
-    <PackageId>Telegram.Bot</PackageId>
-    <Authors>RoundRobin,Poulad,tuscen,Wizou</Authors>
-    <Copyright>Copyright © TelegramBots 2016-2024</Copyright>
-    <PackageIcon>package-icon.png</PackageIcon>
-    <PackageReadmeFile>README.md</PackageReadmeFile>
-    <PackageProjectUrl>https://github.com/TelegramBots/telegram.bot</PackageProjectUrl>
+    <PackageId>JetWallet.Telegram.Bot</PackageId>
+    <PackageProjectUrl>https://github.com/MyJetWallet/Telegram.Bot</PackageProjectUrl>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
-    <RepositoryUrl>https://github.com/TelegramBots/telegram.bot.git</RepositoryUrl>
-    <PackageTags>Telegram;Bot;Api;Payment;Inline;Games</PackageTags>
-    <AllowedOutputExtensionsInPackageBuildOutputFolder>$(AllowedOutputExtensionsInPackageBuildOutputFolder);.pdb</AllowedOutputExtensionsInPackageBuildOutputFolder>
+    <RepositoryUrl>https://github.com/MyJetWallet/Telegram.Bot</RepositoryUrl>
   </PropertyGroup>
 
   <PropertyGroup Label="Warnings">
